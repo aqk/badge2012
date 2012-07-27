@@ -1,0 +1,20 @@
+My intention for the badge this year was to give you all a development board, and facilitate coding fairly easily so you could code at con if you so desired.  All the software is free, and all you need is a USB cable.  I’ve included the Windows version of the tool.  There are other open source tools as well, for Mac and Linux.  
+The windows version of the Propeller tool also installs a serial terminal for when you’re connected via USB.
+  
+I still want an air of mystery with the badge contest, but anticipate that many of you will want to program the badge immediately.  I’ve included the object files that were used in the code that is running in the badges initially for the Defcon game, here on the CD.  I have not however given you the source code-  If you would like to try and recreate the badge behaviors, all the objects are there for you (objects in this environment are like libs).    One of the really fun things you can do is program RAM without reprogramming the EEPROM, so you can load code without blowing out the badge code…so have fun….
+
+I’ve made the badge behavior an auxiliary part to the badge challenge, so that if you are coding for the badge you don’t automatically rule yourself out of the game.  You may not get some stuff as easily as others who are playing with the original badge code, however. 
+ 
+Speaking of the badge challenge- it *is* two-part this year.  Those playing the ‘puzzle’ side will need to team up with someone doing a hardware hack/modification/reprogramming.   Likewise those doing the hardware hack will require ‘information’ that those working on the crypto side will uncover.  I would *encourage* you to find someone who you do not know to form these alliances.  Of course I can’t force that on you, but I fully endorse it.  I like connecting people.
+
+Details:
+•	Hardware side of the contest CAN be purely software based if you so desire.  Entries will be judged based on originality, elegance, neat-o factor and technical difficulty (see elegance).  Hardware entries will not be accepted directly.  Method of submission is to be discovered by your ‘crypto’ team.
+•	No crypto team will be able to complete the game without a hardware hack/modification/code update.  (Simple flashing of an LED would qualify, but would be really lame and scored as such.)
+•	Multiple badges may be used in conjunction with each other for the final design.
+•	External parts may be added to the badge.  Modifications are encouraged.  Additions as well.  Most of all please just have fun.
+
+Not sure if you want to solve the badge mystery?  Get off the fence and try the first few stages- it's not so bad, and you might meet some new people along the way.  
+
+Have fun.
+
+-1o57
