@@ -1,0 +1,40 @@
+=========================
+  D E F C O N   2 0 1 2
+=========================
+
+Human............
+ Artist..........
+  Press.......... No
+   Speaker....... No
+    Vendor.......
+     Contest..... Wallflower
+      Goon....... Yes
+       Uber...... No
+                  No
+Status........... No
+                  No
+Happy 20th Defcon No
+
+1o57
+
+
+After interacting with brent's badge??
+
+=========================
+  D E F C O N   2 0 1 2
+=========================
+
+Human............ Yes
+ Artist.......... No
+  Press.......... No
+   Speaker....... No
+    Vendor....... No
+     Contest..... No
+      Goon....... No
+       Uber...... No
+
+Status........... Wallflower
+
+Happy 20th Defcon
+
+1o57
