@@ -1,0 +1,3 @@
+parallax p8x32a
+FTDI USB -> serial
+
